@@ -1,5 +1,13 @@
-Hi there 👋 I'm Lucas Serrano 👨‍💻
 
+<h1 align='center'>
+  Hi there 👋 I'm Lucas Serrano 👨‍💻
+</h1>
+
+<p align='center'>
+  A student and developer from Spain.
+</p>
+
+<p align='center'>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
