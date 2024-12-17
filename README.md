@@ -15,6 +15,10 @@
   <a href="https://www.linkedin.com/in/lucas-manuel-serrano-pérez-1740a3139/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+  <a href="#"><img src="https://www.linkedin.com/in/lucas-manuel-serrano-pérez-1740a3139/overlay/background-image/" width="350"></a>
+</p>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
