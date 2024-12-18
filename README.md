@@ -27,9 +27,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucass14xy&label=Profile%20views&color=0e75b6&style=flat" alt="lucass14xy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lucass14xy&label=Profile%20views&color=0e75b6&style=flat" alt="Lucass14xy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucass14xy" alt="lucass14xy" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lucass14xy" alt="Lucass14xy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
