@@ -32,8 +32,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lucass14xy" alt="Lucass14xy" /></a> </p>
 
 
+> [!Note]
+>  📫 How to reach me **lm.serrano.p@gmail.com**
 
-- 📫 How to reach me **lm.serrano.p@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,8 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucass14xy&show_icons=true&locale=en&layout=compact" alt="Lucass14xy" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucass14xy&" alt="Lucass14xy" /></p>
 
 
 <!---
