@@ -42,7 +42,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucass14yx&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true" alt="lucass14yx" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucass14yx&show_icons=true&locale=en&layout=compact" alt="lucass14yx" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucass14yx&" alt="lucass14yx" /></p>
 
 <!---
 Lucass14xy/Lucass14xy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
